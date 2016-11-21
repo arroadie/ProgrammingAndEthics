@@ -4,7 +4,7 @@ author:
   mail: thiago@arroadie.com
   url: http://www.arroadie.com
   twitter: arroadie
-output: presentation.html 
+output: index.html 
 style: style.css
 
 --
